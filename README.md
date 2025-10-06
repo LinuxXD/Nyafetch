@@ -1,7 +1,8 @@
 # Nyafetch
-+-------------------------------+
-| nyafetch config for fastfetch |
-+-------------------------------+
+-----------------------------
+nyafetch config for fastfetch
+-----------------------------
 
-place the files in  ~/.config/fastfetch
-add "alias nyafetch=fastfetch --config ~/.config/fastfetch/neko.jsonc" in your ~/.bashrc or ~/.zshrc
+[Install instructions]
+1. place the files in  ~/.config/fastfetch
+2. add "alias nyafetch=fastfetch --config ~/.config/fastfetch/neko.jsonc" in your ~/.bashrc or ~/.zshrc
