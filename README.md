@@ -1,6 +1,6 @@
 # Nyafetch
 -----------------------------
-nyafetch config for fastfetch
+Nyafetch config for fastfetch
 -----------------------------
 
 [Install instructions]
