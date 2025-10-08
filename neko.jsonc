@@ -3,7 +3,7 @@
 
     "logo": {
 	"type": "file",
-	"source": "~/.config/fastfetch/neko4.txt",
+	"source": "~/.config/fastfetch/neko.txt",
 	"color": {
 	   "1": "light_cyan",
 	},
